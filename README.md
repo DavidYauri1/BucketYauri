@@ -1,6 +1,6 @@
-# S3 AWS - Tutorial
+# S3 AWS - 
 
-En el presente proyecto cargamos archivos en buckets del servicio S3.
+
 
 ## Instalación y configuración
 
